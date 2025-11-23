@@ -15,3 +15,21 @@ This repo contains two independent assignments:
 Research Agent — A tool-calling AI that performs structured research using Pydantic-AI, logs events using Logfire, and outputs citations.
 
 E-commerce Shopping Assistant — A 3-panel interactive shopping assistant with catalog + cart + AI chat using Pydantic-AI and FastHTML.
+🚀 Project 1 — Research Agent (Pydantic-AI + Tool Calling + Logfire)
+📘 Overview
+
+A fully functional AI research assistant that:
+
+Uses Pydantic-AI’s tool calling
+
+Extracts web data, summaries, citations, and structured results
+
+Logs all actions using Logfire instrumentation
+
+Returns a clean, formatted final answer
+
+The agent can:
+✔ Plan research
+✔ Use tools
+✔ Combine results
+✔ Produce final structured output
